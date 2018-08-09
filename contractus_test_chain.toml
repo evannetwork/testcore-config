@@ -1,0 +1,5 @@
+[websockets]
+apis = ["web3", "eth", "net", "parity", "parity_accounts", "personal", "traces", "rpc", "secretstore", "pubsub" ]
+interface = "0.0.0.0"
+origins = ["all"]
+hosts = ["all"]
