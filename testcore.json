@@ -17,6 +17,8 @@
             }
           }
         },
+        "blockRewardContractAddress": "0x9b8860de6fa5cfe6d32ab79a33848259e4b6f972",
+        "blockRewardContractTransition": "160000",
         "strictEmptyStepsTransition": "0xfffffffff",
         "emptyStepsTransition": "1500",
         "maximumEmptySteps": "900"
@@ -40,7 +42,7 @@
     "eip1014Transition": "100000",
     "eip1052Transition": "100000",
     "eip1283Transition": "100000",
-    "eip1283DisableTransition": "155000",
+    "eip1283DisableTransition": "160000",
     "kip4Transition": "100000",
     "kip6Transition": "100000"
   },
