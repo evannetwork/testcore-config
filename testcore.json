@@ -33,6 +33,7 @@
     "registrar": "0xf62711aa6cca7962813a306c0B3eCbA486Eb0eD1",
     "transactionPermissionContract": "0xa426f3f28e1a79aa91e46eb4430f25ac09adf16d",
     "transactionPermissionContractTransition": "43010",
+    "eip98Transition": "0x0",
     "eip140Transition": "100000",
     "eip211Transition": "100000",
     "eip214Transition": "100000",
