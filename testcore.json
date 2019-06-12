@@ -15,13 +15,13 @@
             "43000": {
               "safeContract": "0xa081a8d1f01e00ef9be7b81889581e3f727649b4"
             },
-            "215000": {
+            "210000": {
               "safeContract": "0x73294a0593e2c75f6200315d2316ad732ec83767"
             }
           }
         },
         "blockRewardContractAddress": "0xdccb7f7ec90c99ba744986539dd73b897401954b",
-        "blockRewardContractTransition": "215000",
+        "blockRewardContractTransition": "210000",
         "strictEmptyStepsTransition": "0xfffffffff",
         "emptyStepsTransition": "1500",
         "maximumEmptySteps": "900"
